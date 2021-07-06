@@ -1,6 +1,6 @@
 body{
-font-family: 'Raleway', sans-serif; /* la police utilisée */
-font-size: 14px; /* la taille de la police */
+	font-family: 'Raleway', sans-serif; /* la police utilisée */
+	font-size: 14px; /* la taille de la police */
 }
 
 
@@ -211,7 +211,7 @@ h1 {
 
 
 #Hebergements img{ /* l'espace entre ID et IMG indique que SEULEMENT les images de cette DIV la seront modifier*/
-width: 100px ; 
+	width: 100px ; 
 
 }
 
@@ -231,7 +231,7 @@ width: 100px ;
 /* Section 2 LES plus POPULAIRES */
 
 #populaires img{
-width : 100px ;
+	width : 100px ;
 }
 
 
